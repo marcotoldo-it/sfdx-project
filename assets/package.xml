@@ -35,7 +35,7 @@
   </types>
   <types>
     <members>Property_Record_Page</members>
-    <name>FlexiPage</name>
+    <name>FlexiPage</name> 
   </types>
   <types>
     <members>Broker__c-Broker Layout</members>
